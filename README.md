@@ -1,1 +1,1 @@
-# 2024Project1
+# Tic Tac Toe JavaScript Project
