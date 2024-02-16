@@ -107,8 +107,8 @@ body {
 
 .cell.circle::after,
 .board.circle .cell:not(.x):not(.circle):hover::after {
-  width: calc(var(--mark-size) * .7);
-  height: calc(var(--mark-size) * .7);
+  width: calc(var(--mark-size) * .75);
+  height: calc(var(--mark-size) * .75);
   background-color: white;
 }
 
